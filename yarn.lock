@@ -4542,10 +4542,10 @@
     "@typescript-eslint/types" "4.30.0"
     eslint-visitor-keys "^2.0.0"
 
-"@uniswap/default-token-list@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-2.1.0.tgz#06dc33fbdb3bc4c507d4e9ac8b8b62ef5b252c8d"
-  integrity sha512-Cd2CrtZ+rNk55txvO76EEZRWOyojX+YyY0xxVjiMN00Y9nKDCftYoUNvwy9d+VuTySYjyCAVUef4PdcongZAPg==
+"@uniswap/default-token-list@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-3.1.0.tgz#a54bda17ecbbc1c57dc2274d8dd9ddc9c87492d1"
+  integrity sha512-ih5qHKCJwCubqGBzvsfXRzh0CSWqRPCEscFxYenRh2kKs/NE7Q+jMW69dBWg03O8N8cNuoZYk0yJ7n6v+yE0oA==
 
 "@uniswap/governance@^1.0.2":
   version "1.0.2"
