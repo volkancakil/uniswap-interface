@@ -1,0 +1,18 @@
+IPFS hash of the deployment:
+- CIDv0: `QmQZe48wGBwx6z8DuboTG62AYf8BbKd6XYDENefVZUvjyV`
+- CIDv1: `bafybeibbbmxslnkqathnm7vryt3oxm6pcjcwyc7s4c7u2agjr6b6uyo4vq`
+
+The latest release is always mirrored at [app.uniswap.org](https://app.uniswap.org).
+
+You can also access the Uniswap Interface from an IPFS gateway.
+**BEWARE**: The Uniswap interface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to remember your settings, such as which tokens you have imported.
+**You should always use an IPFS gateway that enforces origin separation**, or our hosted deployment of the latest release at [app.uniswap.org](https://app.uniswap.org).
+Your Uniswap settings are never remembered across different URLs.
+
+IPFS gateways:
+- https://bafybeibbbmxslnkqathnm7vryt3oxm6pcjcwyc7s4c7u2agjr6b6uyo4vq.ipfs.dweb.link/
+- [ipfs://QmQZe48wGBwx6z8DuboTG62AYf8BbKd6XYDENefVZUvjyV/](ipfs://QmQZe48wGBwx6z8DuboTG62AYf8BbKd6XYDENefVZUvjyV/)
+
+### 5.72.3 (2025-02-21)
+
+
